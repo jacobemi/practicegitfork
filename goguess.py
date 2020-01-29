@@ -21,4 +21,4 @@ def goguess():
             guess = int(raw_input('Guess: '))
             
     print 'Right! my number is ' + str(number) + '! You guessed in ' + str(guesses) + ' guesses!' #This runs when the guess is correct
-            
+#haha            
